@@ -1,0 +1,18 @@
+/* src/App.css */
+
+@import '@fontsource/roboto'; 
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+}
+
+h2 {
+  color: #444;
+}
